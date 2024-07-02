@@ -1,5 +1,12 @@
+*{
+    background-color: rgb(128, 186, 236);
+}
+
 div{
-    background-color: tomato;
     margin: 20px;
     padding: 10px;
 }   
+.intro{
+    margin: 50px;
+    text-align: center;
+}
