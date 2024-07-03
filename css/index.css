@@ -2,8 +2,15 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-image: url(../images/build.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
 h1{
     text-align: center;
+    border: 5px 5px 10px 5px solid green;
 }
 .intro{
         width: 200px;
