@@ -12,7 +12,20 @@ h1{
     text-align: center;
     border: 5px 5px 10px 5px solid green;
 }
-.intro{
-        width: 200px;
-        height: 300px;
+.about{
+        margin: 20px;
+        border: 3px solid rgb(83, 83, 162);
+        padding: 30px;
+        font-size: 30px;
+        text-align: justify;
+}
+#jp{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.name{
+    color: rgb(168, 65, 65);
+    
 }
