@@ -45,5 +45,16 @@ h1{
 }
 .name{
     color: rgb(168, 65, 65);
-    
+}
+.contact{
+    font-size: 25px;
+    margin: 20px;
+    display: inline-flex;
+}
+.foot{
+    background-color: rgb(76, 61, 43);
+    border: 1px solid greenyellow;
+    padding: 50px;
+    color: white;
+    text-align: center;
 }
