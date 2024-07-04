@@ -19,8 +19,12 @@ h1{
     list-style: none;
     justify-content: right;
     background-color: rgb(151, 148, 148);
-    font-size: 30px;
-    
+    font-size: 30px;  
+}
+.child-nav{
+    margin: 20px;
+    padding: 10px;
+    border-right: 50px;
 }
 .about{
         margin: 20px;
